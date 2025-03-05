@@ -1,2 +1,3 @@
-# automl-for-ecommerce-fraud-detection
-AutoML for e-commerce fraud detection is an advanced approach that automates the development and deployment of machine learning models to identify and prevent fraudulent activities in online transactions. 
+Fraud detection in e-commerce is a critical challenge as online transactions continue to grow exponentially. Traditional fraud detection methods often struggle to keep up with the increasing sophistication of fraudulent activities. Automated Machine Learning (AutoML) offers a powerful solution by automating the process of building, training, and deploying machine learning models tailored to detect fraudulent transactions in real-time.
+
+This repository explores the application of AutoML for fraud detection in e-commerce, leveraging advanced machine learning techniques to identify and prevent fraudulent activities. AutoML simplifies the model development process, making it accessible even for users with limited machine learning expertise, while still delivering high-performance models.
